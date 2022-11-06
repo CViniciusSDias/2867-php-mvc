@@ -1,3 +1,4 @@
 .idea/
 vendor/
 banco.sqlite
+public/img/uploads
